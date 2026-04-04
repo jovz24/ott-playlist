@@ -825,7 +825,7 @@ http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v8
 https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png/revision/latest/scale-to-width-down/300?cb=20200822104703" group-title="Samsung TV Plus", Aniplus
-https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg18481-amg18481c1-amgplt0352/d4029963-2fcb-11f1-b63a-2eca999f78ab/68/1920x1080_5344532/index.m3u8
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Samsung TV Plus", Ani Blast
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c9-amgplt0019/56787e13-2fce-11f1-9fd1-fa3638d560ef/16/1280x720_3000800/index.m3u8

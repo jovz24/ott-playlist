@@ -822,7 +822,7 @@ http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 group-logo=""
 
 #EXTINF:-1 tvg-logo="" group-title="Samsung TV Plus", Animax
-https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/d89d8a85-2fcc-11f1-a3e6-ca0c0d62e286/8/1280x720_3000140/index.m3u8
+https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Samsung TV Plus", Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg18481-amg18481c1-amgplt0352/d4029963-2fcb-11f1-b63a-2eca999f78ab/68/1920x1080_5344532/index.m3u8

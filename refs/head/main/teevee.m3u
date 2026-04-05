@@ -883,6 +883,36 @@ https://nl.utako.moe/js3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", JSports 4
 https://nl.utako.moe/js4/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", TV Tokyo
+https://nl.utako.moe/TV_Tokyo/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", Tokyo MX 1
+https://nl.utako.moe/Tokyo_MX1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", Tokyo MX 2
+https://nl.utako.moe/Tokyo_MX2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", MBS
+https://nl.utako.moe/mbs/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", TV Osaka
+https://nl.utako.moe/tvo/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", BS Asahi
+https://nl.utako.moe/bsasahi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", BS TBS
+https://nl.utako.moe/bstbs/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", BS TV Tokyo
+https://nl.utako.moe/bstvtokyo/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", Home Drama Channel
+https://nl.utako.moe/homedrama/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", Sky A
+https://nl.utako.moe/skya/index.m3u8
+
 **********World-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"

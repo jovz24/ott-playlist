@@ -852,6 +852,12 @@ https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-a
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"
 
+#EXTINF:-1 tvg-logo="" group-title="World TV", Anime x Hidive
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World TV", UFC
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="World TV", Crunchyroll
 https://aka-live1050.delivery.roku.com/cdd53068-81e9-4898-999d-7f4f6d0b28ad/t2-origin/out/v1/live_288.m3u8
 
@@ -1389,4 +1395,14 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
+**********Japan TV (Test)**********
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ph Live Radio", Animax Japan
+https://nl.utako.moe/Animax/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ph Live Radio", AT-X Japan
+https://nl.utako.moe/AT-X/index.m3u8
+
+
 

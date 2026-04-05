@@ -848,6 +848,14 @@ https://amg01131-amg01131c2-samsung-ph-7609.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Samsung TV Plus", Tennis+
 https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
 
+**********Japan TV Test**********
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", Animax Japan
+https://nl.utako.moe/Animax/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", AT-X Japan
+https://nl.utako.moe/AT-X/index.m3u8
+
 **********World-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"
@@ -1396,13 +1404,7 @@ http://122.53.138.32:8000/dwbr.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
-**********Japan TV Test**********
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ph Live Radio", Animax Japan
-https://nl.utako.moe/Animax/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ph Live Radio", AT-X Japan
-https://nl.utako.moe/AT-X/index.m3u8
 
 
 

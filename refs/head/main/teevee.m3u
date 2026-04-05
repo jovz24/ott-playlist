@@ -852,6 +852,26 @@ https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-a
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"
 
+#EXTINF:-1 tvg-logo="" group-title="World TV", Crunchyroll
+https://aka-live1050.delivery.roku.com/cdd53068-81e9-4898-999d-7f4f6d0b28ad/t2-origin/out/v1/live_288.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="World TV", Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="", HBO Pop
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-POP-HD/default.mpd
+
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="", Disney Jr.
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d41d2ae9b0d875ba12e97c5a3f3eec82:3a443892e1ad1158c6fd2bf9c9146eb6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
+
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png", HBO2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

@@ -856,6 +856,33 @@ https://nl.utako.moe/Animax/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", AT-X Japan
 https://nl.utako.moe/AT-X/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", NHK-G
+https://nl.utako.moe/NHK_G/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", NHK-E
+https://nl.utako.moe/NHK_E/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", BSP4K
+https://nl.utako.moe/bsp4k/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", TV Asahi 
+https://nl.utako.moe/ex_ch1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", Fighting TV Samurai
+https://nl.utako.moe/fighting_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", JSports 1
+https://nl.utako.moe/js1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", JSports 2
+https://nl.utako.moe/js2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", JSports 3
+https://nl.utako.moe/js3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Japan TV Test", JSports 4
+https://nl.utako.moe/js4/index.m3u8
+
 **********World-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"

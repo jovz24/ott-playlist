@@ -917,6 +917,13 @@ https://nl.utako.moe/skya/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"
 
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="", Sony One Action Hits(TEST)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f923872b58cb63c827a402ed0b52857a:c7fa135ed77f7c42389234846b402b71
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="World TV", Anime x Hidive
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 

@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Samsung" tvg-id="Blast Movies_SamsungTVPlus" tvg-logo="", Blast Movies
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 group-title="Samsung" tvg-id="Premiere Sports_SamsungTVPlus" tvg-logo="", Premiere Sports
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 group-title="Samsung" tvg-id="Aniplus_SamsungTVPlus" tvg-logo="", Aniplus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 group-title="Samsung" tvg-id="Animax_SamsungTVPlus" tvg-logo="", Animac
+https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/playlist.m3u8

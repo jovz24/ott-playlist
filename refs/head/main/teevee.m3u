@@ -1267,6 +1267,10 @@ https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-a
 #EXTINF:-1 group-title="SamsungTV" tvg-id="RedBullTV_SamsungTVPlus" tvg-logo="", Red Bull TV
 https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 
+**********WESIPTV**********
+#EXTINF:-1 group-title="WESIPTV" tvg-id="" tvg-logo="", Star Movies
+https://converse.nathcreqtives.com/channels/starmovies/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENTVUlZT0JJIiwiaWF0IjoxNzc3MTE1ODA5LCJleHAiOjE3Nzc5Nzk4MDksImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3Nzk3OTgwOSwiYWxsb3dlZE9yaWdpbnMiOltdfQ.HckuJ4QxB-VNKXnIOo71C1JpvN8l8ynVzNoIBUpEimE
+
 **********World-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"

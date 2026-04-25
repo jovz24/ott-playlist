@@ -817,6 +817,30 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Converge", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
+
+**********SamsungTV**********
+
+#EXTINF:-1 group-title="SamsungTV" tvg-id="Blast Movies_SamsungTVPlus" tvg-logo="", Blast Movies
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 group-title="SamsungTV" tvg-id="Premiere Sports_SamsungTVPlus" tvg-logo="", Premiere Sports
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 group-title="SamsungTV" tvg-id="Aniplus_SamsungTVPlus" tvg-logo="", Aniplus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 group-title="SamsungTV" tvg-id="Animax_SamsungTVPlus" tvg-logo="", Animax
+https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 group-title="SamsungTV" tvg-id="FightPlus_SamsungTVPlus" tvg-logo="", Fight Plus
+https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 group-title="SamsungTV" tvg-id="Tennis+_SamsungTVPlus" tvg-logo="", Tennis+
+https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 group-title="SamsungTV" tvg-id="RedBullTV_SamsungTVPlus" tvg-logo="", Red Bull TV
+https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
+
 **********World-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"

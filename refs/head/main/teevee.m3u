@@ -1284,7 +1284,7 @@ https://converse.nathcreqtives.com/channels/smselect/playlist.m3u8?token=eyJhbGc
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"
 
-#EXTINF:-1 tvg-id="World TV" tvg-logo="" , MN+ HD
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="" , MN+ HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1292,7 +1292,7 @@ https://converse.nathcreqtives.com/channels/smselect/playlist.m3u8?token=eyJhbGc
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="World TV" tvg-logo="", MNX HD
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="", MNX HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

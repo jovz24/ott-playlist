@@ -817,7 +817,10 @@ http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v8
 
 
 **********Japan TV**********
-#EXTINF:-1 group-title="Japan" tvg-id="nhk_g_tokyo" tvg-logo="", AT-X
+#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", Animax Japan
+https://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", AT-X
 https://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japan" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G HD (Primehome)
@@ -879,7 +882,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1 group-title="Japan" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-#EXTINF:-1 group-title="Japan" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K (Primehome)
+#EXTINF:-1 group-title="Japan" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 group-title="Japan" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12

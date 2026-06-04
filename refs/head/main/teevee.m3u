@@ -1006,15 +1006,6 @@ https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="WESIPTV" tvg-id="" tvg-logo="", Star Movies Select HD
 https://converse.nathcreqtives.com/channels/stalker-324-8dca62be/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENTVUlZT0JJIiwiaWF0IjoxNzgwNTU2NDk5LCJleHAiOjE3ODgwMDE1NzEsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc4ODAwMTU3MSwiYWxsb3dlZE9yaWdpbnMiOltdfQ.sTEKmr6R9Fa3M8Ags2sakJnGbw_HYtiPASaRBeizWA4
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="" , BEIN Sports 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://converse.nathcreqtives.com/channels/e585fc3e-9cb8-4189-a855-7eaf8e36c327/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENTVUlZT0JJIiwiaWF0IjoxNzgwNTU2NDk5LCJleHAiOjE3ODgwMDE1NzEsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc4ODAwMTU3MSwiYWxsb3dlZE9yaWdpbnMiOltdfQ.sTEKmr6R9Fa3M8Ags2sakJnGbw_HYtiPASaRBeizWA4
-
-
 **********World-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"

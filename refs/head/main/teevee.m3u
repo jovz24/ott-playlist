@@ -646,12 +646,31 @@ http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v8
 
 **********Japan TV**********
 #EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", Animax Japan
-https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", AT-X
-https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/at-x/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", NHK-G
+https://akariko-bck1.sankuria.sbs/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", Tokyo MX 1
+https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", JSport 1
+https://akariko-bck1.sankuria.sbs/stream/jp/jsport_1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", NHK BSP4K
+https://akariko-bck1.sankuria.sbs/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", NHK BS
+https://akariko-bck1.sankuria.sbs/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", Kayo Pops
+https://akariko-bck1.sankuria.sbs/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", JCOM BS
+https://akariko-bck1.sankuria.sbs/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
 **********SamsungTV**********
 
 #EXTINF:-1 group-logo="https://commons.wikimedia.org/wiki/File:Samsung_TV_Plus_logo.png#/media/File:Samsung_TV_Plus_logo.png"

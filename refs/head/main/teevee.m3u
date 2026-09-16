@@ -710,32 +710,9 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 **********Japan TV**********
-#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", Animax Japan
-https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", AT-X
-https://akariko-bck1.sankuria.sbs/stream/jp/at-x/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", NHK-G
-https://akariko-bck1.sankuria.sbs/stream/jp/nhk_g/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", Tokyo MX 1
-https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", JSport 1
-https://akariko-bck1.sankuria.sbs/stream/jp/jsport_1/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", NHK BSP4K
-https://akariko-bck1.sankuria.sbs/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", NHK BS
-https://akariko-bck1.sankuria.sbs/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", Kayo Pops
-https://akariko-bck1.sankuria.sbs/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", JCOM BS
-https://akariko-bck1.sankuria.sbs/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Japan" tvg-id="" tvg-logo="", TBS
+https://live-tver-simul-tbs.streaks.jp/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest_1.m3u8
 
 **********SamsungTV**********
 

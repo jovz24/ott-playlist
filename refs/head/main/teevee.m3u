@@ -744,10 +744,7 @@ https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"
 
 #EXTINF:-1 tvg-logo="" group-title="World TV",ESPN
-https://ott.djdoolky76.io/api/streams/111/stream.m3u8?auth=eyJ2IjoyLCJjIjoxMTEsImUiOjE3ODk3MDEyNDksImsiOiJ2aWV3ZXIiLCJpIjoyLCJuIjoiZ2k3ZVlWcVlBbEUiLCJ0IjoieUpoTG5ib3lCZW5zTDBPY0FKZFZNR3h5NHlWbHA0Ym4ifQ.WvjXmlgox6laUbDbORUcY5ME1ueT2yJ3izqHxMr4PJY&rep=vid06&sid=db67752248e9a5d07ff29ba7bc644249edab
-
-#EXTINF:-1 tvg-logo="" group-title="World TV",SONY PIX
-https://smaplcig.dpdns.org/hehe/india_sony_pix_hd_a06p/channel.m3u8
+https://ott.djdoolky76.io/api/streams/111/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
 
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/qx0IGXg.png" ,Astro Sports Plus
 #KODIPROP:inputstream.adaptive.manifest_type=dash
